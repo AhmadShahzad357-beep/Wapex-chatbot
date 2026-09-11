@@ -1,0 +1,21 @@
+# --- Frontend / Chat UI ---
+gradio
+
+# --- API server ---
+fastapi
+uvicorn[standard]
+pydantic
+
+# --- Config ---
+python-dotenv
+
+# --- LLM client (Gemini via OpenAI-compatible endpoint) ---
+openai
+
+# --- Retrieval ---
+chromadb
+sentence-transformers
+rank-bm25
+
+# --- Ingestion ---
+pypdf
