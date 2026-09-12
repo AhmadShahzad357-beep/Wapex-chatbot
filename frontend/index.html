@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>WAPEXP — Ask us anything</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">WX</span>
+        <div class="brand-text">
+          <span class="brand-name">WAPEXP</span>
+          <span class="brand-sub">Software House</span>
+        </div>
+      </div>
+      <button class="reset-btn" id="resetBtn" title="Start a new conversation">New chat</button>
+    </header>
+
+    <main class="chat" id="chat">
+      <div class="msg bot">
+        <span class="msg-tag">wapexp</span>
+        <div class="msg-body">
+          Assalam-o-Alaikum! Main WAPEXP ka assistant hoon — courses, fees, timings ya location ke baare mein kuch bhi pooch sakte hain.
+        </div>
+      </div>
+    </main>
+
+    <form class="composer" id="composer">
+      <input type="text" id="input" placeholder="Apna sawal likhein..." autocomplete="off" />
+      <button type="submit" id="sendBtn" aria-label="Send message">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M3 12L21 3L14 21L11 13L3 12Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+    </form>
+  </div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,7 +1,4 @@
-# --- Frontend / Chat UI ---
-gradio
-
-# --- API server ---
+﻿# --- API server ---
 fastapi
 uvicorn[standard]
 pydantic
@@ -9,7 +6,7 @@ pydantic
 # --- Config ---
 python-dotenv
 
-# --- LLM client (Gemini via OpenAI-compatible endpoint) ---
+# --- LLM client (Groq via OpenAI-compatible endpoint) ---
 openai
 
 # --- Retrieval ---
