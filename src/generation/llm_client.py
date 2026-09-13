@@ -1,16 +1,10 @@
-import os
+﻿import os
 from openai import OpenAI
 from config.settings import Config
 
 def generate_answer(user_query: str, context: str, memory_context: str = "") -> str:
-    """
-    Sirf context ke andar se jawab banayega. 
-    Agar context mein nahi hai toh "I don't know" bolega.
-    """
-
-    # 🔥 Groq OpenAI-compatible endpoint
     client = OpenAI(
-        api_key=os.getenv("GROQ_API_KEY"),   # .env mein GROQ_API_KEY daalo
+        api_key=os.getenv("GROQ_API_KEY"),
         base_url="https://api.groq.com/openai/v1"
     )
 
@@ -20,6 +14,8 @@ You are WAPEXP's official assistant. Answer ONLY using the provided context belo
 - NEVER use your own general knowledge to fill gaps.
 - NEVER guess numbers, fees, or dates not present in context.
 - Quote exact figures from context (fees, phone numbers, timings) exactly as given.
+- Agar user ka sawal kisi bhi retrieved chunk se match karta hai - chahe sawal us chunk ka sirf ek chhota sa hissa (jaise sirf "fee" ya sirf "duration") hi kyun na pooch raha ho - to us poori matching entry ka MUKAMMAL jawab do (fee + duration + discount + poora curriculum/policy jo bhi context mein us entry ke liye maujood hai). Jawab ko chota mat karo ya sirf ek line mat do jab context mein us se zyada detail maujood ho.
+- Jawab bilkul context jitna complete hona chahiye - na usse chota, na usse bada.
 """
 
     messages = [
@@ -28,17 +24,13 @@ You are WAPEXP's official assistant. Answer ONLY using the provided context belo
     ]
 
     try:
-        # 🔥 New OpenAI client syntax (v1.0+)
         response = client.chat.completions.create(
-            model=Config.LLM_MODEL,  # .env mein "openai/gpt-oss-120b" (Groq model) set karna
+            model=Config.LLM_MODEL,
             messages=messages,
             temperature=0.0,
             max_tokens=900
         )
         return response.choices[0].message.content
-
     except Exception as e:
-        # 🔥 DEBUG: asli error ab terminal mein bhi print hoga, taake pata chale
-        # ke API key, model name, ya network mein se kya masla hai
-        print(f"❌ LLM CALL FAILED: {type(e).__name__}: {e}")
-        return f"⚠️ Error generating response: {str(e)}"
+        print(f"LLM CALL FAILED: {type(e).__name__}: {e}")
+        return f"Error generating response: {str(e)}"

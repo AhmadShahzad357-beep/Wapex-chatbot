@@ -1,12 +1,12 @@
 ﻿:root {
-  --bg: #10131c;
-  --surface: #171b28;
-  --surface-2: #1f2536;
-  --border: #2a3145;
-  --text: #eceef4;
-  --text-dim: #8891a7;
+  --bg: #eef0f5;
+  --surface: #ffffff;
+  --surface-2: #f3f4f8;
+  --border: #e0e2ea;
+  --text: #1a1d29;
+  --text-dim: #6b7280;
   --accent: #f5a623;
-  --accent-dim: #a97321;
+  --accent-dim: #c9860f;
   --user: #3d63dd;
   --radius: 14px;
 }
@@ -125,9 +125,9 @@ body {
 }
 
 .msg.error .msg-body {
-  background: #2b1414;
-  border-left: 2px solid #e05555;
-  color: #f4c2c2;
+  background: #fdeaea;
+  border-left: 2px solid #d64545;
+  color: #a02323;
   border-radius: 2px 10px 10px 10px;
 }
 

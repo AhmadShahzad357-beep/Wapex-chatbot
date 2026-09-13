@@ -1,1 +1,232 @@
-WAPEXP Software House – Chatbot Knowledge Base Official Q&A Data Source for the WAPEXP Chatbot 1. Class Timing Q: What class timings do you offer? Do you have morning, afternoon, or evening batches? At WAPEXP, we understand that every student has a different daily routine, which is why we offer three separate batch timings: Morning, Afternoon, and Evening. This means you don't have to worry about adjusting your entire schedule around your studies — you can simply pick the batch that fits naturally into your day. Once you enroll, our team will confirm the exact batch time based on your preference and seat availability. Q: Do you offer weekend classes? Our regular batches run according to student convenience across the week, and timing is fully flexible depending on the student's availability. If you have a specific requirement, our team will work with you to arrange a schedule that suits you best, so feel free to discuss your preferred days when you contact us. Q: Can I choose my own timing, or is it fixed by the institute? Yes, you are free to choose your preferred timing. WAPEXP does not force students into a single fixed schedule. Since we already offer Morning, Afternoon, and Evening slots, you can select whichever one is most convenient for you, and our team will do their best to accommodate your choice when placing you into a batch. 2. Mode of Classes Q: Are your classes online, physical, or hybrid? WAPEXP conducts fully physical, in-person classes at our institute. We believe that face-to-face learning under the direct supervision of an experienced instructor helps students understand concepts more clearly, ask questions in real time, and stay consistent and disciplined throughout the course. All our sessions take place on-site at our office in Faisalabad, giving students a proper classroom and lab environment to learn in. 3. Hands-On Learning & Practical Training Q: Will there be hands-on practice during the course? Yes, hands-on practice is at the core of everything we teach at WAPEXP. Rather than only explaining theory, our instructors make sure every concept is immediately followed by practical exercises, so students build real skills by actually writing code and solving problems themselves, not just watching lectures. Q: Will I get to work on live projects? Yes, live projects are a major part of our training. As you progress through the course, you will be assigned real, practical projects that simulate actual industry work, allowing you to apply your knowledge in a meaningful way and gain the kind of experience employers look for. Q: Will I get to work with real clients? Yes, WAPEXP gives students the opportunity to work with real clients during their training. This exposes you to genuine client communication, requirement gathering, and project delivery, which is extremely valuable experience that most fresh graduates don't get elsewhere. Q: Will there be team-based work? Yes, team work is included as part of our training. Students are given group tasks and team projects so they learn how to collaborate, communicate, and manage responsibilities within a team — a skill that is essential in every professional software house. Q: Will you teach Git and version control? Yes, Git and version control are taught as an essential part of the curriculum. Every student learns how to use Git to track changes, manage code versions, collaborate with team members, and handle real-world project workflows, since this is a standard requirement in almost every development job today. Q: Will you teach deployment? Yes, deployment is fully covered in our training. We make sure students don't just learn how to build applications but also how to properly deploy and launch them, so you understand the complete development lifecycle from writing code to making a project live and accessible to real users. Q: Will I build a portfolio during the course? Yes, absolutely. As you complete assignments, live projects, and your final project throughout the course, you will naturally build a strong and professional portfolio. This portfolio becomes solid proof of your practical skills and can be shown directly to employers or freelance clients. Q: Is there a final project at the end of the course? Yes, every course at WAPEXP concludes with a final project. This gives you the chance to bring together everything you have learned into one complete, polished piece of work, which strengthens both your confidence and your portfolio before you step into the job market. 4. Job & Career Support Q: Will you help me prepare a CV? Yes, WAPEXP provides complete support in building a professional CV/resume. Our team guides you on how to properly present your skills, projects, and experience so that your CV stands out to recruiters and increases your chances of getting shortlisted for interviews. Q: Will you provide interview preparation? Yes, interview preparation is part of our career support services. We guide students on commonly asked technical and HR interview questions, how to present themselves confidently, and how to talk about their projects and skills effectively in front of an interviewer. Q: Will you conduct mock interviews? Yes, we conduct mock interview sessions so students can practice in a realistic, simulated interview environment before facing the real thing. This helps reduce nervousness, builds confidence, and allows students to improve based on direct feedback from our trainers. Q: Will you help me build my LinkedIn profile? Yes, we guide students on how to create and optimize a professional LinkedIn profile. A strong LinkedIn presence plays a major role in getting noticed by recruiters and companies, and our team will help you structure it properly to reflect your skills and projects. Q: Do you provide a freelancing guide? Yes, we provide complete freelancing guidance as part of our career support. This includes helping students understand how the freelancing market works, how to position themselves, and how to start earning independently using the skills learned during the course. Q: Will you help me set up a Fiverr profile? Yes, we guide students step by step on creating and optimizing a Fiverr profile, including how to present their gigs, skills, and portfolio in a way that attracts potential clients and helps them start getting orders. Q: Will you help me set up an Upwork account? Yes, we also guide students on setting up and optimizing an Upwork account, including profile completion, skill selection, and portfolio presentation, so students are well prepared to start bidding on projects and building a freelancing career on that platform as well. 5. Prerequisites Q: I don't know programming at all. Can I still join? Yes, absolutely, you can still join. You do not need any prior programming knowledge to enroll at WAPEXP. Our courses are specifically designed to start from absolute zero, meaning we begin with the fundamentals and gradually build your skills step by step, so even complete beginners can learn comfortably and confidently. Q: I have zero knowledge in this field. Will I be able to keep up? Yes, having zero prior knowledge is completely fine and very common among our students. Our teaching method is structured to take you from the basics all the way up to advanced, practical skills, with proper guidance and support at every stage, so you will not be left behind. Q: Is a laptop required for the course? Yes, a laptop is required in order to attend the course and practice alongside the lectures, since hands-on practice is a core part of our training and students need to code and complete exercises during and after class. 6. Class Information Q: Will I get one-on-one support, or is it only group teaching? Even though you will be learning as part of a batch alongside other students, WAPEXP makes sure that every individual student receives complete, focused attention. Our instructors personally ensure that no student is left behind and that each one gets the specific guidance and support they need to fully understand the material. Q: What happens if I miss a class? If you happen to miss a class, there is no need to worry. The missed lecture will be delivered to you separately so that you don't fall behind the rest of your batch and can stay fully on track with the course. Q: Is there a WhatsApp group for students? Yes, every batch has a dedicated WhatsApp group in which all enrolled students are added. This group is used for important updates, class-related communication, sharing resources, and staying connected with both the instructor and fellow classmates throughout the course. 7. Career Outcomes Q: Will I be able to do freelancing after completing this course? Yes, after completing the course you will have both the technical skills and the freelancing guidance needed to start working independently and confidently as a freelancer. Q: Will I get a job after finishing this course? Yes, our training is designed to make students job-ready. Along with strong technical skills, we also provide CV preparation, interview training, and mock interviews, all of which significantly improve your chances of securing a job after completion. Q: Will I have a proper portfolio ready by the end of the course? Yes, by the end of the course you will have a complete, professional portfolio built from the real, practical projects you work on throughout your training, which you can confidently present to employers or clients. Q: Will I learn Git as part of this course? Yes, Git is taught throughout the course as a core practical skill, since almost every software house and development team relies on it for managing code and collaborating effectively. Q: Will I learn deployment as part of this course? Yes, deployment is included in the practical training so that you understand how to take a completed project and make it live, which is an essential skill expected of every professional developer. Q: Will I learn how to work with APIs? Yes, working with APIs is part of the hands-on training, since most modern applications rely on connecting to different services and data sources through APIs, and this is a skill you will practice through real project work. 8. Projects Q: How many projects will I work on during the course? Throughout the course, you will work on multiple projects rather than just one. This gives you broad, practical exposure to different types of development scenarios instead of relying on a single learning experience. Q: Will there be a final project? Yes, the course concludes with a final project that brings together everything you have learned, giving you one complete, polished, portfolio-ready piece of work by the end of your training. Q: Will the projects be real-world projects? Yes, the projects assigned during the course are based on real-world scenarios, designed to reflect the kind of work you would actually encounter in a professional software house or on the job. Q: Will there be client-based projects? Yes, students get the opportunity to work on client-based projects, which gives you genuine experience in understanding client requirements and delivering according to real expectations. Q: Will there be team projects? Yes, some projects are done in teams, allowing you to practice collaboration, task division, and communication skills that are essential in any professional development environment. Q: Will there be individual projects as well? Yes, alongside team projects, you will also complete individual projects on your own, which helps demonstrate your personal capability and problem-solving skills to future employers or clients. Q: Will I build a GitHub profile through this course? Yes, you will build and maintain a GitHub profile throughout the course by uploading your projects and contributions. A strong GitHub profile is extremely valuable when applying for jobs or freelance opportunities, as it acts as visible proof of your skills. 9. AI Tools & Modern Technologies Q: Will you teach us how to use ChatGPT? Yes, students are trained on how to effectively use ChatGPT as part of their development workflow, helping them write code faster, debug issues, and understand concepts more efficiently. Q: Will you teach GitHub Copilot? Yes, we introduce students to GitHub Copilot so they can learn how to use AI-assisted coding tools to speed up development and improve productivity in real projects. Q: Will you teach Cursor AI? Yes, Cursor AI is also covered as part of our modern development training, giving students exposure to AI-powered code editors that are becoming increasingly common in the industry. Q: Will you teach us how to use Claude? Yes, students are trained on using Claude as an AI assistant for coding, problem-solving, and boosting overall development productivity. Q: Will you teach us how to use Gemini? Yes, Gemini is also included in our AI tools training, ensuring students are comfortable using multiple leading AI platforms rather than being limited to just one. Q: Will you teach Prompt Engineering? Yes, Prompt Engineering is taught as part of our curriculum, since knowing how to write effective prompts is now a valuable skill for getting accurate and useful results from AI tools. Q: Will you teach us about LLMs (Large Language Models)? Yes, we cover the fundamentals of Large Language Models (LLMs) so students understand how modern AI tools work behind the scenes and how to make the best use of them in real projects. Q: Will you teach RAG (Retrieval-Augmented Generation)? Yes, RAG is included in our advanced AI training, helping students understand how to combine AI models with external data sources to build smarter, more accurate applications. Q: Will you teach LangChain? Yes, LangChain is also part of our AI-focused training, giving students practical exposure to building applications that integrate language models with real-world data and tools. 10. Technology Stack Q: Which programming language will I learn? The programming language taught depends on the specific course you enroll in, as each course is built around the language most relevant to that particular field. Whichever course you choose, you will learn the language thoroughly, starting from the basics and progressing to advanced, practical usage. Q: Which framework will I learn? Similar to the programming language, the framework taught is based on your chosen course, and it will be one of the most relevant and in-demand frameworks used in that field, taught with a strong focus on real-world, hands-on application. Q: Which database will I learn? The database technology covered also depends on your course, and you will learn how to design, manage, and work with databases in a practical way as part of your real project work. Q: Will I learn about cloud platforms? Yes, cloud technologies are included in the training relevant to your course, helping you understand how modern applications are hosted, scaled, and managed in real-world environments. Q: Will you teach Docker? Yes, Docker is taught as part of our practical training, helping students understand how to containerize applications for consistent development and deployment. Q: Will you teach Kubernetes? Yes, Kubernetes is also covered, giving students an understanding of how modern applications are managed and scaled in production environments using container orchestration. Q: Will you teach Git? Yes, Git is a core part of our training and is taught to every student, since version control is a fundamental skill required in virtually every development job. Q: Will you teach Linux? Yes, Linux fundamentals are also part of the training, as most development and deployment environments in the real world are Linux-based, and this knowledge is essential for any serious developer. 11. Freelancing Guidance Q: How do I start freelancing after this course? We provide complete, step-by-step freelancing guidance to help you get started, covering everything from setting up your profiles on freelancing platforms to actually landing your first clients and projects. Q: Will you help me build a Fiverr profile? Yes, we guide students on how to properly set up and optimize a Fiverr profile, including how to present your gigs, skills, and portfolio in a way that attracts potential buyers. Q: Will you help me set up an Upwork account? Yes, we also guide students on creating and optimizing an Upwork account, including profile completion and portfolio presentation, to help you start bidding on projects confidently. Q: How will I find clients as a freelancer? We guide students on practical strategies for finding clients, including how to search for relevant opportunities, approach potential clients professionally, and build a steady pipeline of freelance work over time. Q: Will you teach me how to write proposals? Yes, we teach students how to write effective, professional proposals that clearly communicate their skills and value to potential clients, which significantly increases the chances of getting hired for freelance projects. Q: Will you help me with personal branding? Yes, personal branding is also part of our freelancing guidance. We help students understand how to present themselves professionally online, build credibility, and stand out in a competitive freelancing market. 12. Contact Information Q: What are your office timings? Our office is open Monday to Friday from 10:00 AM to 7:00 PM, and on Saturday from 10:00 AM to 5:00 PM. Q: What is your contact number? You can reach us at 0321-7658485. Q: What is your WhatsApp number? You can contact us on WhatsApp at 0321-7658485. Q: What is your email address? You can email us at wapexpsolution@gmail.com. Q: What is your website? You can visit our website at https://www.wapexp.com. Q: What is your office address? Our office is located at 2nd Floor, Ghauri Arcade Plaza, Saleemi Chowk, Satiana Road, Batala Colony, Faisalabad, Punjab 38000, Pakistan. Q: Do you have a Google Maps location? The Google Maps location will be added soon. End of Knowledge Base — WAPEXP Software House
+﻿WAPEXP Software House – Chatbot Knowledge Base
+Official Q&A Data Source for the WAPEXP Chatbot
+
+1. Class Timing
+
+Q: What class timings do you offer? Do you have morning, afternoon, or evening batches?
+At WAPEXP, we understand that every student has a different daily routine, which is why we offer three separate batch timings: Morning, Afternoon, and Evening. This means you don't have to worry about adjusting your entire schedule around your studies — you can simply pick the batch that fits naturally into your day. Once you enroll, our team will confirm the exact batch time based on your preference and seat availability.
+
+Q: Do you offer weekend classes?
+Our regular batches run according to student convenience across the week, and timing is fully flexible depending on the student's availability. If you have a specific requirement, our team will work with you to arrange a schedule that suits you best, so feel free to discuss your preferred days when you contact us.
+
+Q: Can I choose my own timing, or is it fixed by the institute?
+Yes, you are free to choose your preferred timing. WAPEXP does not force students into a single fixed schedule. Since we already offer Morning, Afternoon, and Evening slots, you can select whichever one is most convenient for you, and our team will do their best to accommodate your choice when placing you into a batch.
+
+2. Mode of Classes
+
+Q: Are your classes online, physical, or hybrid?
+WAPEXP conducts fully physical, in-person classes at our institute. We believe that face-to-face learning under the direct supervision of an experienced instructor helps students understand concepts more clearly, ask questions in real time, and stay consistent and disciplined throughout the course. All our sessions take place on-site at our office in Faisalabad, giving students a proper classroom and lab environment to learn in.
+
+3. Hands-On Learning & Practical Training
+
+Q: Will there be hands-on practice during the course?
+Yes, hands-on practice is at the core of everything we teach at WAPEXP. Rather than only explaining theory, our instructors make sure every concept is immediately followed by practical exercises, so students build real skills by actually writing code and solving problems themselves, not just watching lectures.
+
+Q: Will I get to work on live projects?
+Yes, live projects are a major part of our training. As you progress through the course, you will be assigned real, practical projects that simulate actual industry work, allowing you to apply your knowledge in a meaningful way and gain the kind of experience employers look for.
+
+Q: Will I get to work with real clients?
+Yes, WAPEXP gives students the opportunity to work with real clients during their training. This exposes you to genuine client communication, requirement gathering, and project delivery, which is extremely valuable experience that most fresh graduates don't get elsewhere.
+
+Q: Will there be team-based work?
+Yes, team work is included as part of our training. Students are given group tasks and team projects so they learn how to collaborate, communicate, and manage responsibilities within a team — a skill that is essential in every professional software house.
+
+Q: Will you teach Git and version control?
+Yes, Git and version control are taught as an essential part of the curriculum. Every student learns how to use Git to track changes, manage code versions, collaborate with team members, and handle real-world project workflows, since this is a standard requirement in almost every development job today.
+
+Q: Will you teach deployment?
+Yes, deployment is fully covered in our training. We make sure students don't just learn how to build applications but also how to properly deploy and launch them, so you understand the complete development lifecycle from writing code to making a project live and accessible to real users.
+
+Q: Will I build a portfolio during the course?
+Yes, absolutely. As you complete assignments, live projects, and your final project throughout the course, you will naturally build a strong and professional portfolio. This portfolio becomes solid proof of your practical skills and can be shown directly to employers or freelance clients.
+
+Q: Is there a final project at the end of the course?
+Yes, every course at WAPEXP concludes with a final project. This gives you the chance to bring together everything you have learned into one complete, polished piece of work, which strengthens both your confidence and your portfolio before you step into the job market.
+
+4. Job & Career Support
+
+Q: Will you help me prepare a CV?
+Yes, WAPEXP provides complete support in building a professional CV/resume. Our team guides you on how to properly present your skills, projects, and experience so that your CV stands out to recruiters and increases your chances of getting shortlisted for interviews.
+
+Q: Will you provide interview preparation?
+Yes, interview preparation is part of our career support services. We guide students on commonly asked technical and HR interview questions, how to present themselves confidently, and how to talk about their projects and skills effectively in front of an interviewer.
+
+Q: Will you conduct mock interviews?
+Yes, we conduct mock interview sessions so students can practice in a realistic, simulated interview environment before facing the real thing. This helps reduce nervousness, builds confidence, and allows students to improve based on direct feedback from our trainers.
+
+Q: Will you help me build my LinkedIn profile?
+Yes, we guide students on how to create and optimize a professional LinkedIn profile. A strong LinkedIn presence plays a major role in getting noticed by recruiters and companies, and our team will help you structure it properly to reflect your skills and projects.
+
+Q: Do you provide a freelancing guide?
+Yes, we provide complete freelancing guidance as part of our career support. This includes helping students understand how the freelancing market works, how to position themselves, and how to start earning independently using the skills learned during the course.
+
+Q: Will you help me set up a Fiverr profile?
+Yes, we guide students step by step on creating and optimizing a Fiverr profile, including how to present their gigs, skills, and portfolio in a way that attracts potential clients and helps them start getting orders.
+
+Q: Will you help me set up an Upwork account?
+Yes, we also guide students on setting up and optimizing an Upwork account, including profile completion, skill selection, and portfolio presentation, so students are well prepared to start bidding on projects and building a freelancing career on that platform as well.
+
+5. Prerequisites
+
+Q: I don't know programming at all. Can I still join?
+Yes, absolutely, you can still join. You do not need any prior programming knowledge to enroll at WAPEXP. Our courses are specifically designed to start from absolute zero, meaning we begin with the fundamentals and gradually build your skills step by step, so even complete beginners can learn comfortably and confidently.
+
+Q: I have zero knowledge in this field. Will I be able to keep up?
+Yes, having zero prior knowledge is completely fine and very common among our students. Our teaching method is structured to take you from the basics all the way up to advanced, practical skills, with proper guidance and support at every stage, so you will not be left behind.
+
+Q: Is a laptop required for the course?
+Yes, a laptop is required in order to attend the course and practice alongside the lectures, since hands-on practice is a core part of our training and students need to code and complete exercises during and after class.
+
+6. Class Information
+
+Q: Will I get one-on-one support, or is it only group teaching?
+Even though you will be learning as part of a batch alongside other students, WAPEXP makes sure that every individual student receives complete, focused attention. Our instructors personally ensure that no student is left behind and that each one gets the specific guidance and support they need to fully understand the material.
+
+Q: What happens if I miss a class?
+If you happen to miss a class, there is no need to worry. The missed lecture will be delivered to you separately so that you don't fall behind the rest of your batch and can stay fully on track with the course.
+
+Q: Is there a WhatsApp group for students?
+Yes, every batch has a dedicated WhatsApp group in which all enrolled students are added. This group is used for important updates, class-related communication, sharing resources, and staying connected with both the instructor and fellow classmates throughout the course.
+
+7. Career Outcomes
+
+Q: Will I be able to do freelancing after completing this course?
+Yes, after completing the course you will have both the technical skills and the freelancing guidance needed to start working independently and confidently as a freelancer.
+
+Q: Will I get a job after finishing this course?
+Yes, our training is designed to make students job-ready. Along with strong technical skills, we also provide CV preparation, interview training, and mock interviews, all of which significantly improve your chances of securing a job after completion.
+
+Q: Will I have a proper portfolio ready by the end of the course?
+Yes, by the end of the course you will have a complete, professional portfolio built from the real, practical projects you work on throughout your training, which you can confidently present to employers or clients.
+
+Q: Will I learn Git as part of this course?
+Yes, Git is taught throughout the course as a core practical skill, since almost every software house and development team relies on it for managing code and collaborating effectively.
+
+Q: Will I learn deployment as part of this course?
+Yes, deployment is included in the practical training so that you understand how to take a completed project and make it live, which is an essential skill expected of every professional developer.
+
+Q: Will I learn how to work with APIs?
+Yes, working with APIs is part of the hands-on training, since most modern applications rely on connecting to different services and data sources through APIs, and this is a skill you will practice through real project work.
+
+8. Projects
+
+Q: How many projects will I work on during the course?
+Throughout the course, you will work on multiple projects rather than just one. This gives you broad, practical exposure to different types of development scenarios instead of relying on a single learning experience.
+
+Q: Will there be a final project?
+Yes, the course concludes with a final project that brings together everything you have learned, giving you one complete, polished, portfolio-ready piece of work by the end of your training.
+
+Q: Will the projects be real-world projects?
+Yes, the projects assigned during the course are based on real-world scenarios, designed to reflect the kind of work you would actually encounter in a professional software house or on the job.
+
+Q: Will there be client-based projects?
+Yes, students get the opportunity to work on client-based projects, which gives you genuine experience in understanding client requirements and delivering according to real expectations.
+
+Q: Will there be team projects?
+Yes, some projects are done in teams, allowing you to practice collaboration, task division, and communication skills that are essential in any professional development environment.
+
+Q: Will there be individual projects as well?
+Yes, alongside team projects, you will also complete individual projects on your own, which helps demonstrate your personal capability and problem-solving skills to future employers or clients.
+
+Q: Will I build a GitHub profile through this course?
+Yes, you will build and maintain a GitHub profile throughout the course by uploading your projects and contributions. A strong GitHub profile is extremely valuable when applying for jobs or freelance opportunities, as it acts as visible proof of your skills.
+
+9. AI Tools & Modern Technologies
+
+Q: Will you teach us how to use ChatGPT?
+Yes, students are trained on how to effectively use ChatGPT as part of their development workflow, helping them write code faster, debug issues, and understand concepts more efficiently.
+
+Q: Will you teach GitHub Copilot?
+Yes, we introduce students to GitHub Copilot so they can learn how to use AI-assisted coding tools to speed up development and improve productivity in real projects.
+
+Q: Will you teach Cursor AI?
+Yes, Cursor AI is also covered as part of our modern development training, giving students exposure to AI-powered code editors that are becoming increasingly common in the industry.
+
+Q: Will you teach us how to use Claude?
+Yes, students are trained on using Claude as an AI assistant for coding, problem-solving, and boosting overall development productivity.
+
+Q: Will you teach us how to use Gemini?
+Yes, Gemini is also included in our AI tools training, ensuring students are comfortable using multiple leading AI platforms rather than being limited to just one.
+
+Q: Will you teach Prompt Engineering?
+Yes, Prompt Engineering is taught as part of our curriculum, since knowing how to write effective prompts is now a valuable skill for getting accurate and useful results from AI tools.
+
+Q: Will you teach us about LLMs (Large Language Models)?
+Yes, we cover the fundamentals of Large Language Models (LLMs) so students understand how modern AI tools work behind the scenes and how to make the best use of them in real projects.
+
+Q: Will you teach RAG (Retrieval-Augmented Generation)?
+Yes, RAG is included in our advanced AI training, helping students understand how to combine AI models with external data sources to build smarter, more accurate applications.
+
+Q: Will you teach LangChain?
+Yes, LangChain is also part of our AI-focused training, giving students practical exposure to building applications that integrate language models with real-world data and tools.
+
+10. Technology Stack
+
+Q: Which programming language will I learn?
+The programming language taught depends on the specific course you enroll in, as each course is built around the language most relevant to that particular field. Whichever course you choose, you will learn the language thoroughly, starting from the basics and progressing to advanced, practical usage.
+
+Q: Which framework will I learn?
+Similar to the programming language, the framework taught is based on your chosen course, and it will be one of the most relevant and in-demand frameworks used in that field, taught with a strong focus on real-world, hands-on application.
+
+Q: Which database will I learn?
+The database technology covered also depends on your course, and you will learn how to design, manage, and work with databases in a practical way as part of your real project work.
+
+Q: Will I learn about cloud platforms?
+Yes, cloud technologies are included in the training relevant to your course, helping you understand how modern applications are hosted, scaled, and managed in real-world environments.
+
+Q: Will you teach Docker?
+Yes, Docker is taught as part of our practical training, helping students understand how to containerize applications for consistent development and deployment.
+
+Q: Will you teach Kubernetes?
+Yes, Kubernetes is also covered, giving students an understanding of how modern applications are managed and scaled in production environments using container orchestration.
+
+Q: Will you teach Git?
+Yes, Git is a core part of our training and is taught to every student, since version control is a fundamental skill required in virtually every development job.
+
+Q: Will you teach Linux?
+Yes, Linux fundamentals are also part of the training, as most development and deployment environments in the real world are Linux-based, and this knowledge is essential for any serious developer.
+
+11. Freelancing Guidance
+
+Q: How do I start freelancing after this course?
+We provide complete, step-by-step freelancing guidance to help you get started, covering everything from setting up your profiles on freelancing platforms to actually landing your first clients and projects.
+
+Q: Will you help me build a Fiverr profile?
+Yes, we guide students on how to properly set up and optimize a Fiverr profile, including how to present your gigs, skills, and portfolio in a way that attracts potential buyers.
+
+Q: Will you help me set up an Upwork account?
+Yes, we also guide students on creating and optimizing an Upwork account, including profile completion and portfolio presentation, to help you start bidding on projects confidently.
+
+Q: How will I find clients as a freelancer?
+We guide students on practical strategies for finding clients, including how to search for relevant opportunities, approach potential clients professionally, and build a steady pipeline of freelance work over time.
+
+Q: Will you teach me how to write proposals?
+Yes, we teach students how to write effective, professional proposals that clearly communicate their skills and value to potential clients, which significantly increases the chances of getting hired for freelance projects.
+
+Q: Will you help me with personal branding?
+Yes, personal branding is also part of our freelancing guidance. We help students understand how to present themselves professionally online, build credibility, and stand out in a competitive freelancing market.
+
+12. Contact Information
+
+Q: What are your office timings?
+Our office is open Monday to Friday from 10:00 AM to 7:00 PM, and on Saturday from 10:00 AM to 5:00 PM.
+
+Q: What is your contact number?
+You can reach us at 0321-7658485.
+
+Q: What is your WhatsApp number?
+You can contact us on WhatsApp at 0321-7658485.
+
+Q: What is your email address?
+You can email us at wapexpsolution@gmail.com.
+
+Q: What is your website?
+You can visit our website at https://www.wapexp.com.
+
+Q: What is your office address?
+Our office is located at 2nd Floor, Ghauri Arcade Plaza, Saleemi Chowk, Satiana Road, Batala Colony, Faisalabad, Punjab 38000, Pakistan.
+
+Q: Do you have a Google Maps location?
+The Google Maps location will be added soon.
+
+End of Knowledge Base — WAPEXP Software House
